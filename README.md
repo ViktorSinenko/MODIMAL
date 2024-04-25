@@ -8,4 +8,4 @@ Technologies:
 -Gulp,
 -JS
 
-[demo]()
+[demo](https://viktorsinenko.github.io/MODIMAL/)
