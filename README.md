@@ -6,4 +6,4 @@ Technologies:
 -HTML,
 -SCSS,
 -Gulp,
--js
+-JS
